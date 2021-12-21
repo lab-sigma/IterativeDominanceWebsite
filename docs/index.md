@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Reinforcement Learning for Iterative Strategy Dominance
 
 You can use the [editor on GitHub](https://github.com/lab-sigma/IterativeDominanceWebsite/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
