@@ -1,3 +1,3 @@
-## Reinforcement Learning for Iterative Dominance Elimination
+## Introduction
 
-This is a test to see if GitHub Pages is actually working, and putting the text in the right places
+The Reinforcement Learning for Iterative Dominance Elimination competition aims to improve the process of iteratively eliminating dominated strategies in multi-agent systems. An action _a_ is **dominated** by another action _a'_ if playing _a_ always results in a lower reward than playing _a'_. Thus, it is beneficial for agents to remove dominated actions, as it is never in a utility-maximizing agent's best interest to play a dominated action. Notably, after eliminating some dominated actions, other actions may then start to become dominated and thus require an additional iteration of dominance elimination. Therefore, if one could find an efficient way to eliminate dominated strategies, that could drastically simplify the process of learning optimal strategies in many games
